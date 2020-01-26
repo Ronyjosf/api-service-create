@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e5aed0c-5ae0-40f2-88a4-8fc58614d7ed" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WlZvBjjSCbhOFbPVK01SAlNg9O" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="structure" />
+      <recent name="com.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ServiceTestSuite">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.service.Main" />
+      <module name="create-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.ServiceTestSuite" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceTestSuite.getInvalidPublisherReadingsOutlier" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.ServiceTestSuite" />
+      <option name="METHOD_NAME" value="getInvalidPublisherReadingsOutlier" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceTestSuite.getPublisherReadingsOutlier" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.ServiceTestSuite" />
+      <option name="METHOD_NAME" value="getPublisherReadingsOutlier" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceTestSuite.getPuplisherReadingOutlier_last_n_readings" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.ServiceTestSuite" />
+      <option name="METHOD_NAME" value="getPuplisherReadingOutlier_last_n_readings" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ServiceTestSuite" />
+        <item itemvalue="JUnit.ServiceTestSuite.getInvalidPublisherReadingsOutlier" />
+        <item itemvalue="JUnit.ServiceTestSuite.getPuplisherReadingOutlier_last_n_readings" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.ServiceTestSuite.getPublisherReadingsOutlier" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e5aed0c-5ae0-40f2-88a4-8fc58614d7ed" name="Default Changelist" comment="" />
+      <created>1579726369449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579726369449</updated>
+      <workItem from="1579726373198" duration="2241000" />
+      <workItem from="1579763518569" duration="4368000" />
+      <workItem from="1579806000062" duration="56374000" />
+      <workItem from="1579907794299" duration="10857000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="583" y="161" width="800" height="677" key="#Glassfish_Server" timestamp="1579791019751">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state x="583" y="161" width="800" height="677" key="#Glassfish_Server/67.27.1853.948/1920.0.1080.1097@67.27.1853.948" timestamp="1579791019751" />
+    <state x="588" y="156" width="800" height="677" key="#Project_Structure" timestamp="1579727629791">
+      <screen x="67" y="27" width="1853" height="938" />
+    </state>
+    <state x="588" y="156" width="800" height="677" key="#Project_Structure/67.27.1853.938/1920.0.1040.956@67.27.1853.938" timestamp="1579727629791" />
+    <state x="583" y="161" width="800" height="677" key="#Tomcat_Server" timestamp="1579790009524">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state x="583" y="161" width="800" height="677" key="#Tomcat_Server/67.27.1853.948/1920.0.1080.1097@67.27.1853.948" timestamp="1579790009524" />
+    <state x="451" y="154" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579789781869">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state x="451" y="153" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.938/1920.0.1040.956@67.27.1853.938" timestamp="1579727713609" />
+    <state x="451" y="154" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.948/1920.0.1080.1097@67.27.1853.948" timestamp="1579789781869" />
+    <state x="583" y="292" width="810" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579906511104">
+      <screen x="67" y="27" width="1853" height="923" />
+    </state>
+    <state x="583" y="292" width="810" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.923/1920.0.1080.952@67.27.1853.923" timestamp="1579906511104" />
+    <state x="801" y="199" width="374" height="577" key="#com.intellij.ide.util.MemberChooser" timestamp="1579899981496">
+      <screen x="67" y="27" width="1853" height="923" />
+    </state>
+    <state x="801" y="199" width="374" height="577" key="#com.intellij.ide.util.MemberChooser/67.27.1853.923/1920.0.1080.952@67.27.1853.923" timestamp="1579899981496" />
+    <state x="1396" y="317" key="#xdebugger.evaluate" timestamp="1580021790434">
+      <screen x="67" y="27" width="1853" height="923" />
+    </state>
+    <state x="1396" y="317" key="#xdebugger.evaluate/67.27.1853.923/1920.0.1080.952@67.27.1853.923" timestamp="1580021790434" />
+    <state width="496" height="466" key="DebuggerActiveHint" timestamp="1580021848709">
+      <screen x="67" y="27" width="1853" height="923" />
+    </state>
+    <state width="496" height="466" key="DebuggerActiveHint/67.27.1853.923/1920.0.1080.952@67.27.1853.923" timestamp="1580021848709" />
+    <state x="167" y="125" width="1653" height="725" key="DiffContextDialog" timestamp="1579891650493">
+      <screen x="67" y="27" width="1853" height="923" />
+    </state>
+    <state x="167" y="125" width="1653" height="725" key="DiffContextDialog/67.27.1853.923/1920.0.1080.952@67.27.1853.923" timestamp="1579891650493" />
+    <state x="766" y="243" width="424" height="513" key="FileChooserDialogImpl" timestamp="1579791018339">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state x="766" y="243" width="424" height="513" key="FileChooserDialogImpl/67.27.1853.948/1920.0.1080.1097@67.27.1853.948" timestamp="1579791018339" />
+    <state width="1807" height="235" key="GridCell.Tab.0.bottom" timestamp="1580026905354">
+      <screen x="67" y="27" width="1853" height="923" />
+    </state>
+    <state width="1807" height="235" key="GridCell.Tab.0.bottom/67.27.1853.923/1920.0.1080.952@67.27.1853.923" timestamp="1580026905354" />
+    <state width="1807" height="240" key="GridCell.Tab.0.bottom/67.27.1853.938/1920.0.1040.956@67.27.1853.938" timestamp="1579728477569" />
+    <state width="1807" height="235" key="GridCell.Tab.0.center" timestamp="1580026905354">
+      <screen x="67" y="27" width="1853" height="923" />
+    </state>
+    <state width="1807" height="235" key="GridCell.Tab.0.center/67.27.1853.923/1920.0.1080.952@67.27.1853.923" timestamp="1580026905354" />
+    <state width="1807" height="240" key="GridCell.Tab.0.center/67.27.1853.938/1920.0.1040.956@67.27.1853.938" timestamp="1579728477569" />
+    <state width="1807" height="235" key="GridCell.Tab.0.left" timestamp="1580026905354">
+      <screen x="67" y="27" width="1853" height="923" />
+    </state>
+    <state width="1807" height="235" key="GridCell.Tab.0.left/67.27.1853.923/1920.0.1080.952@67.27.1853.923" timestamp="1580026905354" />
+    <state width="1807" height="240" key="GridCell.Tab.0.left/67.27.1853.938/1920.0.1040.956@67.27.1853.938" timestamp="1579728477569" />
+    <state width="1807" height="235" key="GridCell.Tab.0.right" timestamp="1580026905354">
+      <screen x="67" y="27" width="1853" height="923" />
+    </state>
+    <state width="1807" height="235" key="GridCell.Tab.0.right/67.27.1853.923/1920.0.1080.952@67.27.1853.923" timestamp="1580026905354" />
+    <state width="1807" height="240" key="GridCell.Tab.0.right/67.27.1853.938/1920.0.1040.956@67.27.1853.938" timestamp="1579728477569" />
+    <state width="1807" height="374" key="GridCell.Tab.1.bottom" timestamp="1580026825728">
+      <screen x="67" y="27" width="1853" height="923" />
+    </state>
+    <state width="1807" height="374" key="GridCell.Tab.1.bottom/67.27.1853.923/1920.0.1080.952@67.27.1853.923" timestamp="1580026825728" />
+    <state width="1807" height="374" key="GridCell.Tab.1.center" timestamp="1580026825727">
+      <screen x="67" y="27" width="1853" height="923" />
+    </state>
+    <state width="1807" height="374" key="GridCell.Tab.1.center/67.27.1853.923/1920.0.1080.952@67.27.1853.923" timestamp="1580026825727" />
+    <state width="1807" height="374" key="GridCell.Tab.1.left" timestamp="1580026825727">
+      <screen x="67" y="27" width="1853" height="923" />
+    </state>
+    <state width="1807" height="374" key="GridCell.Tab.1.left/67.27.1853.923/1920.0.1080.952@67.27.1853.923" timestamp="1580026825727" />
+    <state width="1807" height="374" key="GridCell.Tab.1.right" timestamp="1580026825727">
+      <screen x="67" y="27" width="1853" height="923" />
+    </state>
+    <state width="1807" height="374" key="GridCell.Tab.1.right/67.27.1853.923/1920.0.1080.952@67.27.1853.923" timestamp="1580026825727" />
+    <state x="526" y="151" width="924" height="684" key="Maven.ArtifactSearchDialog" timestamp="1579910652513">
+      <screen x="67" y="27" width="1853" height="923" />
+    </state>
+    <state x="526" y="151" width="924" height="684" key="Maven.ArtifactSearchDialog/67.27.1853.923/1920.0.1080.952@67.27.1853.923" timestamp="1579910652513" />
+    <state x="526" y="153" width="924" height="684" key="Maven.ArtifactSearchDialog/67.27.1853.938/1920.0.1040.956@67.27.1853.938" timestamp="1579726946486" />
+    <state x="482" y="105" width="1024" height="845" key="SettingsEditor" timestamp="1579873763025">
+      <screen x="67" y="27" width="1853" height="923" />
+    </state>
+    <state x="482" y="105" width="1024" height="845" key="SettingsEditor/67.27.1853.923/1920.0.1080.952@67.27.1853.923" timestamp="1579873763025" />
+    <state x="482" y="130" key="SettingsEditor/67.27.1853.938/1920.0.1040.956@67.27.1853.938" timestamp="1579727525389" />
+    <state width="926" height="462" key="XDebugger.FullValuePopup" timestamp="1579888033657">
+      <screen x="67" y="27" width="1853" height="923" />
+    </state>
+    <state width="926" height="462" key="XDebugger.FullValuePopup/67.27.1853.923/1920.0.1080.952@67.27.1853.923" timestamp="1579888033657" />
+    <state x="167" y="125" width="1653" height="725" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1579905554147">
+      <screen x="67" y="27" width="1853" height="923" />
+    </state>
+    <state x="167" y="125" width="1653" height="725" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/67.27.1853.923/1920.0.1080.952@67.27.1853.923" timestamp="1579905554147" />
+    <state x="167" y="125" width="1653" height="725" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1580026219323">
+      <screen x="67" y="27" width="1853" height="923" />
+    </state>
+    <state x="167" y="125" width="1653" height="725" key="com.intellij.history.integration.ui.views.FileHistoryDialog/67.27.1853.923/1920.0.1080.952@67.27.1853.923" timestamp="1580026219323" />
+    <state x="647" y="105" width="683" height="764" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580022604270">
+      <screen x="67" y="27" width="1853" height="923" />
+    </state>
+    <state x="647" y="105" width="683" height="764" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1853.923/1920.0.1080.952@67.27.1853.923" timestamp="1580022604270" />
+    <state x="638" y="219" width="710" height="536" key="find.popup" timestamp="1579892128342">
+      <screen x="67" y="27" width="1853" height="923" />
+    </state>
+    <state x="638" y="219" width="710" height="536" key="find.popup/67.27.1853.923/1920.0.1080.952@67.27.1853.923" timestamp="1579892128342" />
+    <state x="302" y="193" width="1372" height="605" key="new project wizard" timestamp="1579868128611">
+      <screen x="67" y="27" width="1853" height="923" />
+    </state>
+    <state x="302" y="193" width="1372" height="605" key="new project wizard/67.27.1853.923/1920.0.1080.952@67.27.1853.923" timestamp="1579868128611" />
+    <state x="302" y="198" width="1372" height="603" key="new project wizard/67.27.1853.948/1920.0.1080.1097@67.27.1853.948" timestamp="1579791222858" />
+    <state x="738" y="116" width="500" height="743" key="refactoring.ChangeSignatureDialog" timestamp="1579852522161">
+      <screen x="67" y="27" width="1853" height="923" />
+    </state>
+    <state x="738" y="116" width="500" height="743" key="refactoring.ChangeSignatureDialog/67.27.1853.923/1920.0.1080.952@67.27.1853.923" timestamp="1579852522161" />
+    <state x="656" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1580028687310">
+      <screen x="67" y="27" width="1853" height="923" />
+    </state>
+    <state x="656" y="225" width="672" height="678" key="search.everywhere.popup/67.27.1853.923/1920.0.1080.952@67.27.1853.923" timestamp="1580028687310" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/service/Main.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/service/Main.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/service/Main.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/service/Main.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../test-service/src/test/java/tests/ServiceTestSuite.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../test-service/src/test/java/utils/listeners/extentListener.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../test-service/src/test/java/tests/ServiceTestSuite.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../test-service/src/test/java/tests/ServiceTestSuite.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../test-service/src/test/java/tests/ServiceTestSuite.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
